@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Robert Ottic.png">
+<SubTexture name="idle down0000" x="0" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="idle horizontal0000" x="13" y="0" width="11" height="16" frameX="-2" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="idle up0000" x="24" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk up0000" x="0" y="16" width="13" height="15" frameX="-1" frameY="-2" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk up0001" x="24" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk up0002" x="13" y="16" width="13" height="15" frameX="-1" frameY="-2" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk up0003" x="24" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk down0000" x="37" y="0" width="13" height="15" frameX="-1" frameY="-2" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk down0001" x="0" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk down0002" x="37" y="15" width="13" height="15" frameX="-1" frameY="-2" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk down0003" x="0" y="0" width="13" height="16" frameX="-1" frameY="-1" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk horizontal0000" x="26" y="16" width="11" height="15" frameX="-2" frameY="-2" frameWidth="13" frameHeight="15" />
+<SubTexture name="walk horizontal0001" x="13" y="0" width="11" height="16" frameX="-2" frameY="-1" frameWidth="13" frameHeight="15" />
+</TextureAtlas>
